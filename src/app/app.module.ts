@@ -11,7 +11,7 @@ import { ErrorComponent } from './error/error.component';
   declarations: [
     AppComponent,
     UsersComponent,
-    AdminComponent,
+    AdminComponent,   
     ErrorComponent
   ],
   imports: [
